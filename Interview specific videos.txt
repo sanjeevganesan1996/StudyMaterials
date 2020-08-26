@@ -1,0 +1,12 @@
+Linux - https://www.youtube.com/watch?v=p3tvtXOg5rg
+AWS - https://www.youtube.com/watch?v=d9siPwxzEVI
+Devops 1 - https://www.youtube.com/watch?v=clZgb8GA6xI
+Devops 2 - https://www.youtube.com/watch?v=ZtvpS5eVVDs
+Devops 3 - https://www.youtube.com/watch?v=Ok3zPrfC-Jw
+Jenkins - https://www.youtube.com/watch?v=2AVp9kie6s8
+Ansible - https://www.youtube.com/watch?v=0tchrzJZgsU
+Kubernets - https://www.youtube.com/watch?v=r0Tl9I5dvZQ
+GIT - https://www.youtube.com/watch?v=8Xo3l1zv41I
+MAVEN - https://www.youtube.com/watch?v=5iTcAR4fScM
+Docker - https://www.youtube.com/watch?v=VvPa7PbjXwo
+Docker swarm - https://www.youtube.com/watch?v=Tm0Q5zr3FL4
